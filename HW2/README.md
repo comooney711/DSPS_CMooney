@@ -6,7 +6,7 @@ Andrew Crossman drafted BoltzmannDistribution.ipynb, found means of the histogra
 ## Questions
 1) This homework was about learning how to plot different distributions and understanding how the central limit theorem applies with increasing sample size. This is to numerically prove the central limit theorem that we had learned about in class.
 
-2) The hardest part of the homework was trying to iterate through a numpy array without it skipping repeated values. For example, if there were 5 elements of the array with a sample size of 20, it was difficult to get the program the loop to not only choose one element of value 20.
+2) The hardest part of the homework was trying to iterate through a numpy array without it skipping repeated values. For example, if there were 5 elements of the array with a sample size of 20, it was difficult to get the loop to not only choose one element of value 20.
 
 3) The easiest part of the homework was mainly the Boltzmann python file in general. It was asking fairly simple conceptual questions and asking to label axes.
 
