@@ -1,7 +1,7 @@
 # HW2 README File
 
 ## Contributions
-Andrew Crossman drafted BoltzmannDistribution.ipynb, found means of the histograms and compared to analytic values, then consulted formatting for PEP8. Ben Flaggs set the seeds for reproducability, and was responsible for verifying physics, writing Gaussian functions and fitting to distributions. Nik Korzoun tested and bugfixed CentralLimitTheorem.ipynb, captioned figures and maintained code branches. Connor Mooney plotted means as a function of sample sizes for varing distributions, and generated histograms of all distribution sample means.
+Andrew Crossman drafted BoltzmannDistribution.ipynb, found means of the histograms and compared to analytic values, then consulted formatting for PEP8. Ben Flaggs set the seeds for reproducability, and was responsible for verifying physics, writing Gaussian functions and fitting to distributions. Nik Korzoun tested and bugfixed CentralLimitTheorem.ipynb, captioned figures and maintained code branches. Connor Mooney plotted means as a function of sample sizes for varying distributions, and generated histograms of all distribution sample means.
 
 ## Questions
 1) This homework was about learning how to plot different distributions and understanding how the central limit theorem applies with increasing sample size. This is to nuumerically prove the central limit theorem that we had learned about in class.
