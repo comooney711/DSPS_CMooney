@@ -1,4 +1,4 @@
-# HW2 README File
+# HW2 README
 
 ## Contributions
 Andrew Crossman drafted BoltzmannDistribution.ipynb, found means of the histograms and compared to analytic values, then consulted formatting for PEP8. Ben Flaggs set the seeds for reproducability, and was responsible for verifying physics, writing Gaussian functions and fitting to distributions. Nik Korzoun tested and bugfixed CentralLimitTheorem.ipynb, captioned figures and maintained code branches. Connor Mooney plotted means as a function of sample sizes for varying distributions, and generated histograms of all distribution sample means.
