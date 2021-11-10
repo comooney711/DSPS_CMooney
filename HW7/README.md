@@ -7,46 +7,35 @@ Connor Mooney - https://github.com/comooney711 <br />
 ## Contributions
 ### Andrew Crossman:
 
-*Edited the solutions to solutions 1-3.*
-
-*Ensured PEP8 compliance.*
+Ensured PEP8 compliance.
 
 ### Ben Flaggs:
-
-*Added captions to the figures in exercies 1-3.*
-
-*Edited the solutions to exercises 1-3.*
+Assisted in preprocessing data. Calculated intracluster variance. Applied k-means clustering and plotted variance over number of clusters. Plotted k-means clusters on 2d projection.
 
 ### Nik Korzoun:
 
-*Created the first draft for exercise 1.*
-
-*Created the first draft for exercise 2.*
-
-*Created the first draft for exercise 3.*
+Assisted with intracluster variance and plotting variance over number of clusters. Created distance matrix, histogram of pairwise distances, and applied DBSCAN clustering to 2d TSNE projection.
 
 ### Connor Mooney:
+Preprocessed the data. Plotted the TSNE projection. Created agglomerative clustering dendrograms and 2D agglomerative clusters plot.
 
-*Created the first draft for exercise 4.*
-
-*Created the first draft for exercise 5.*
 
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
+This homework was about understanding and applying different clustering methods to a large, multi-dimensional data set. 
 
-This homework was about applying different models to data to manually find the fit parameters, then comparing how well they fit.
-  
+
 2.**What was the hardest part of the homework for you?**
+The hardest part about the homework for me was determining how to .........
 
-The hardest part of the homework was understanding how to apply a quadratic fit with just the information on the linear fit.
-  
+
 3.**What was the easiest part of the homework for you?**
 
-The easiest part of he homework was question 4. Once I understand exactly what the question was asking me to do it was only algebra to prove the mean value T.
+
   
 4.**One new thing that you have learned**
 
-I have learned how to insert images into a google colab document. I have also learned how to apply linear algebra tools in python.
+
 
 ### Submission Note
-The official submission for this group is in Nik Korzoun's ([@nkorzounUD](https://github.com/nkorzounUD)) HW5 GitHub repo, linked [here](https://github.com/nkorzounUD/DSPS_NKorzoun/tree/main/HW5).
+The official submission for this group is in Nik Korzoun's ([@nkorzounUD](https://github.com/nkorzounUD)) HW7 GitHub repo, linked [here](https://github.com/nkorzounUD/DSPS_NKorzoun/tree/main/HW7).
