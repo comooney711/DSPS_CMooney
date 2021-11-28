@@ -1,4 +1,4 @@
-# Unoffical Submission For Homework Nine by:
+# Official Submission For Homework Nine by:
 Connor Mooney - https://github.com/comooney711 <br />
 
 ## Summary
